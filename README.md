@@ -25,7 +25,7 @@ Ready to test on your phone or emulator right now?
 
 <br/>
 
-<img src="docs/screenshots/app_preview.jpg" alt="VoiceBill AI Apple Liquid Glass UI" width="380" style="border-radius: 28px; box-shadow: 0 20px 40px rgba(20, 122, 82, 0.25); border: 2px solid rgba(255, 255, 255, 0.6);" />
+<img src="docs/screenshots/app_preview.jpg" alt="VoiceBill AI Frosted Liquid Glass UI" width="380" style="border-radius: 28px; box-shadow: 0 20px 40px rgba(20, 122, 82, 0.25); border: 2px solid rgba(255, 255, 255, 0.6);" />
 
 <br/>
 
@@ -78,7 +78,7 @@ flowchart TD
         B4[("🧠 Last-Known Price Cache<br/>(Optional Settings Toggle)")]
     end
 
-    subgraph Presentation["Apple Liquid Glassmorphism UI"]
+    subgraph Presentation["Frosted Liquid Glassmorphism UI"]
         C1["📱 BillingScreen<br/>Bilateral Soundwave & Recessed Cart"]
         C2["📒 KhataScreen<br/>Customer Credit & Udhar Ledger"]
         C3["📊 HistoryScreen<br/>Hisaab-Kitaab & Daily Revenue"]
@@ -168,7 +168,8 @@ Voice billing ai/
 │   └── VoiceBillAI-v1.0.apk           # Pre-compiled sample APK for direct download
 ├── docs/
 │   └── screenshots/
-│       └── app_preview.jpg            # Apple Liquid Glass UI preview
+│       ├── app_preview.jpg            # Real device screenshot (Frosted Liquid Glass UI)
+│       └── app_preview.png            # High-resolution device capture
 ├── app/
 │   ├── src/main/
 │   │   ├── AndroidManifest.xml        # Permissions: Camera, Audio, Bluetooth, Internet

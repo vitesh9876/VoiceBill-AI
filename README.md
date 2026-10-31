@@ -15,11 +15,15 @@
 ### 📲 Instant APK Download
 Ready to test on your phone or emulator right now?
 
-<a href="https://github.com/vitesh9876/VoiceBill-AI/releases/download/v1.0.0/VoiceBillAI-v1.0.apk">
-  <img src="https://img.shields.io/badge/⚡_DOWNLOAD_SAMPLE_APK-v1.0.0_(61.4_MB)-147A52?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="48" />
+<a href="https://raw.githubusercontent.com/vitesh9876/VoiceBill-AI/main/apk/VoiceBillAI-v1.0.apk">
+  <img src="https://img.shields.io/badge/⚡_DIRECT_DOWNLOAD_APK-v1.0.0_(61.4_MB)-147A52?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vitesh9876/VoiceBill-AI/releases/tag/v1.0.0">
+  <img src="https://img.shields.io/badge/🏷️_VIEW_GITHUB_RELEASE-v1.0.0-333333?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Release" height="48" />
 </a>
 
-<p><em>Pre-compiled production debug APK with on-device offline Google ML Kit models bundled. Also available on <a href="https://github.com/vitesh9876/VoiceBill-AI/releases/tag/v1.0.0">GitHub Releases</a>.</em></p>
+<p><em>Pre-compiled production debug APK with on-device offline Google ML Kit models bundled. Direct download hosted on raw CDN.</em></p>
 
 ---
 
@@ -210,9 +214,10 @@ Voice billing ai/
 ## ⚡ Quick Start: Download or Build
 
 ### Method 1: Direct Download (Sample APK)
-You can directly download the sample APK file from GitHub Releases or from this repository:
-* 📥 **[Download VoiceBillAI-v1.0.apk (GitHub Release)](https://github.com/vitesh9876/VoiceBill-AI/releases/download/v1.0.0/VoiceBillAI-v1.0.apk)**
-* 📦 **[Repository Raw File Download (apk/VoiceBillAI-v1.0.apk)](apk/VoiceBillAI-v1.0.apk?raw=true)**
+You can directly download the sample APK file via any of the following reliable links:
+* 📥 **[Direct One-Click Download (Raw CDN)](https://raw.githubusercontent.com/vitesh9876/VoiceBill-AI/main/apk/VoiceBillAI-v1.0.apk)** *(Recommended: Instant file download without GitHub router redirection)*
+* 🏷️ **[GitHub Releases Page (v1.0.0)](https://github.com/vitesh9876/VoiceBill-AI/releases/tag/v1.0.0)** *(Official release notes & asset list)*
+* 📦 **[View APK in Repository](https://github.com/vitesh9876/VoiceBill-AI/blob/main/apk/VoiceBillAI-v1.0.apk)** *(GitHub repository file viewer)*
 
 #### Push to connected Android Phone / Emulator via ADB:
 ```bash
